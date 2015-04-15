@@ -1,0 +1,6 @@
+git add <file>... 		- to include in what will be committed. (add to staging area)
+git rm --cached <file>... 	- to unstage.
+git status			- check status.
+git checkout -- <file>...	- to discard changes in working directory
+git reset --hard		- remove any change in both the Working directory and staging area
+git log --graph --oneline master coin - show branch tree
